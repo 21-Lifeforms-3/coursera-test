@@ -27,3 +27,9 @@ p {
   border: 5px solid black;
   width: 33%;
   } 
+@media (max-width: 767px) {
+ .col-sm-4 {
+  float: left;
+  border: 5px solid black;
+  width: 33%;
+  }
