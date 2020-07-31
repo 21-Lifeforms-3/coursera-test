@@ -1,11 +1,13 @@
 <!doctype html>
+<html>
+  p{color: blue;}
   <head>
     <title>Our Menu</title>
   </head>
 <body>
-<h1>Chicken<h1
-<h2>Beef<h2>
-<h3>Sushi<h3>
-<p1>Roast chicken, baby carrots, spring peas topped with grandma’s flakey pie crust.</p1>
-<p2>Succulent roast topside of beef, made especially irresistible with a mustard crust, piquant shallots and red wine enriched gravy.</p2>
-<p3>10 pcs Sushi, 10 pcs Sashimi with Dragon Roll & Rainbow Roll</p3>
+<h1 class: color="green">Chicken<h1>
+<h2 class: color="red">Beef<h2>
+<h3 class: color="yellow">Sushi<h3>
+<p1> Roast chicken, baby carrots, spring peas topped with grandma’s flakey pie crust. </p1>
+<p2> Succulent roast topside of beef, made especially irresistible with a mustard crust, piquant shallots and red wine enriched gravy. </p2>
+<p3> 10 pcs Sushi, 10 pcs Sashimi with Dragon Roll & Rainbow Roll </p3>
