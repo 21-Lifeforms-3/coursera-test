@@ -4,6 +4,7 @@
 .green { color: #80ff00;}
 .blue { color: #00bfff;}
 .red { color: #ff4000;}
+.black { color: #000000;}
 h1 {
 h2, h3, h4 {margin-bottom= 15px;}
 p {
