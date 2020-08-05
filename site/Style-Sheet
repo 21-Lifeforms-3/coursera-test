@@ -5,7 +5,7 @@
 .blue {color: #00bfff;}
 .red {color: #ff4000;}
 .black {color: #000000;}
-.highlight {font-size: 24px; font-weight: bold; font-style: italic; background-color: grey; opacity: 0.5;}
+.highlight {font-size: 24px; font-weight: bold; font-style: italic; background-color: gray; opacity: 0.5;}
 h1 {text-align: center;}
 h2, h3, h4 {margin-bottom= 15px;}
 p {
