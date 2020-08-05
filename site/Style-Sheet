@@ -4,7 +4,7 @@
 h1 {
 h2, h3, h4 {margin-bottom= 15px;}
 p {
-  border: 5px solid black;
+  border: 5px solid #000000;
   backgroound-color: #a52a2a;
   width: 90%;
   hight: 150px;
