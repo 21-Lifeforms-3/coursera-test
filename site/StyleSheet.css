@@ -7,7 +7,7 @@ e* {box-sizing: "border-box";}
 h1 {text-align: center;}
 h2, h3, h4 {margin-bottom= 15px;}
 p {
-  class="highlight"
+  class: "highlight"
   border: 5px solid #000000;
   backgroound-color: #f5f7f2;
   width: 90%;
