@@ -29,11 +29,11 @@ p {
  .col-md-6 {
   float: left;
   border: 5px solid black;
-  width: 33%;
+  width: 50%;
   } 
 @media (max-width: 767px) {
  .col-sm-12 {
   float: left;
   border: 5px solid black;
-  width: 33%;
+  width: 100%;
   }
