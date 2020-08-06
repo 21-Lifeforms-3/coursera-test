@@ -1,4 +1,4 @@
-* {box-sizing: "border-box";}
+e* {box-sizing: "border-box";}
 .green {color: #80ff00;}
 .blue {color: #00bfff;}
 .red {color: #ff4000;}
@@ -8,7 +8,7 @@ h1 {text-align: center;}
 h2, h3, h4 {margin-bottom= 15px;}
 p {
   border: 5px solid #000000;
-  backgroound-color: #a52a2a;
+  backgroound-color: #ecedeb;
   width: 90%;
   hight: 150px;
   margin-left: auto;
