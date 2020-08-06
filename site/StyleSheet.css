@@ -24,16 +24,19 @@ p {
   float: left;
   border: 5px solid black;
   width: 33%;
+  font-size: 150%
   }
 @media (min-width: 768px) and (max-width: 991px) {
  .col-md-6 {
   float: left;
   border: 5px solid black;
   width: 50%;
+  font-size: 150%
   } 
 @media (max-width: 767px) {
  .col-sm-12 {
   float: left;
   border: 5px solid black;
   width: 100%;
+  font-size: 150%
   }
