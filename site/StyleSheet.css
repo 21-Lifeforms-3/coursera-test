@@ -19,7 +19,6 @@ p {
 .row {
   width= 100%;
 }
-#box {padding: 10px;}
 @media (min-width: 992px) {
   .col-lg-4 {
   float: left;
