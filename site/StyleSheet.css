@@ -13,7 +13,7 @@ p {
   margin-left: auto;
   margin-right: auto;
   font-family: Helvetica;
-  text-color: #000000;
+  font-weight: bold;
 }
 .row {
   width= 100%;
