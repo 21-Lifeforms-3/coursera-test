@@ -8,7 +8,7 @@ h1 {text-align: center; font-size: 30px;}
 h2, h3, h4 {margin-bottom= 15px; font-size: 24px;}
 p {
   border: 5px solid #000000;
-  backgroound-color: #f5f7f2;
+  backgroound-color: #e9ebe6;
   width: 90%;
   hight: 150px;
   margin-left: auto;
@@ -23,6 +23,7 @@ p {
   .col-lg-4 {
   float: left;
   border: 5px solid black;
+  background-color: #e9ebe6;
   margin: 40px;
   padding: 10px;
   width: 33%;
@@ -31,6 +32,7 @@ p {
  .col-md-6 {
   float: left;
   border: 5px solid black;
+  background-color: #e9ebe6;
   margin: 40px;
   padding: 10px;   
   width: 50%;
@@ -39,6 +41,7 @@ p {
  .col-sm-12 {
   float: left;
   border: 5px solid black;
+  background-color: #e9ebe6;
   margin: 40px;
   padding: 10px;  
   width: 100%;
