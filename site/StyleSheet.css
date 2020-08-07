@@ -3,7 +3,7 @@
 .blue {color: #00bfff;}
 .red {color: #ff4000;}
 .black {color: #000000;}
-.highlight {font-size: 15px; font-weight: bold; font-style: italic; background-color: #e9ebe6; text-color: "black"; opacity: 0.5;}
+.highlight {font-size: 18px; font-weight: bold; font-style: italic; background-color: #e9ebe6; text-color: "black"; opacity: 0.5;}
 h1 {text-align: center; font-size: 30px;}
 h2, h3, h4 {margin-bottom= 15px; font-size: 24px;}
 p {
