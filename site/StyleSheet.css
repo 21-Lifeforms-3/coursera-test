@@ -21,8 +21,8 @@ p {
   margin-right: auto;
   font-family: Helvetica;
   position: absolute;
-  bottom: clear; 
-  left: clear; 
+  bottom: 0; 
+  left: 0; 
 }
 .row {
   width= 100%;
