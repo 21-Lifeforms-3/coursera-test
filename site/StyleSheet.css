@@ -13,6 +13,7 @@ p {
   margin-left: auto;
   margin-right: auto;
   font-family: Helvetica;
+  maxlength: 300px;
 }
 .row {
   width= 100%;
