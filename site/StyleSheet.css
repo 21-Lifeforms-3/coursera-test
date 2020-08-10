@@ -20,9 +20,7 @@ p {
   margin-left: auto;
   margin-right: auto;
   font-family: Helvetica;
-  position: absolute;
-  bottom: 0; 
-  left: 0; 
+  text-align: bottom left;
 }
 .row {
   width= 100%;
