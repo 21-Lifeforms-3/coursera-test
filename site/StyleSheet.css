@@ -6,6 +6,7 @@
 .highlight {font-size: 18px; font-weight: bold; font-style: italic; background-color: #e9ebe6; text-color: "black"; opacity: 0.5; position: absolute; bottom: 10px; left 10px;}
 h1 {text-align: center; font-size: 50px;}
 h2 {
+  background-color: #62a10b; 
   padding: 10px;
   border: 2px solid #000000; 
   font-size: 24px;
@@ -14,6 +15,7 @@ h2 {
   right: -2px;
 }
 h3 {
+  background-color: #ff4000;
   padding: 10px;
   border: 2px solid #000000; 
   font-size: 24px;
@@ -22,6 +24,7 @@ h3 {
   right: -2px;
 }
 h4 {
+  background-color: #00bfff;
   padding: 10px;
   border: 2px solid #000000; 
   font-size: 24px;
