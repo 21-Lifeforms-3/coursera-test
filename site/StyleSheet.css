@@ -6,19 +6,20 @@
 .highlight {font-size: 18px; font-weight: bold; font-style: italic; background-color: #e9ebe6; text-color: "black"; opacity: 0.5; position: absolute; bottom: 10px; left 10px;}
 h1 {text-align: center; font-size: 50px;}
 h2, h3, h4 {
+  padding: 10px;
+  border: 5px solid #000000; 
   font-size: 24px;
   position: absolute;
   top: 10px; 
   right: 10px;
 }
 p {
-  border: 5px solid #000000;
-  padding: 5px
+  padding: 5px;
   width: 90%;
   hight: 150px;
   margin-left: auto;
   margin-right: auto;
-  font-family: Helvetica;  
+  font-family: "Helvetica";  
 }
 .row {
   width= 100%;
